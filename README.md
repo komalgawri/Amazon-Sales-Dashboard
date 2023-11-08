@@ -2,43 +2,22 @@
 
 <img width="675" alt="image" src="https://github.com/komalgawri/Amazon-Sales-Dashboard/assets/130573785/31073636-3a76-417c-b8d4-b98461fdea4e">
 
+## Project Description
+This project analyzes Amazon seller data from Kaggle and visualizes key performance indicators using KPIs, bar charts, ring charts, and tables.
 
-Amazon Sales Dashboard is a web application that allows users to visualize and analyze their Amazon sales data through interactive charts and graphs.
+## Data Source
+- Kaggle Dataset: [https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset]
 
-## Table of Contents
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- etc.
 
-- [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Usage
+1. Clone this repository.
+2. Install the required dependencies.
+3. Run the main script to generate visualizations.
 
-## Features
-
-- Visualize your Amazon sales data with various charts and graphs.
-- Filter and sort data to gain insights into your sales performance.
-- User-friendly interface for easy navigation and data exploration.
-
-## Demo
-
-You can see a live demo of the Amazon Sales Dashboard [here](https://your-demo-link.com).
-
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Node.js and npm installed on your local machine.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/amazon-sales-dashboard.git
+## Visualizations
+Insert images and descriptions of your KPIs, bar charts, ring charts, and tables 
