@@ -1,6 +1,7 @@
 # Amazon Sales Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+<img width="675" alt="image" src="https://github.com/komalgawri/Amazon-Sales-Dashboard/assets/130573785/31073636-3a76-417c-b8d4-b98461fdea4e">
+
 
 Amazon Sales Dashboard is a web application that allows users to visualize and analyze their Amazon sales data through interactive charts and graphs.
 
