@@ -11,10 +11,7 @@ Explore the project's visualizations and data analysis to gain a deeper understa
 - Kaggle Dataset: [https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset]
 
 ## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- etc.
+- Power query
 
 ## Usage
 1. Clone this repository.
